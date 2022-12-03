@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GYMBRO/static/css/main.d6fbfddf.css",
-    "main.js": "/GYMBRO/static/js/main.8eac5637.js",
-    "static/js/787.0d2f7ec1.chunk.js": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js",
-    "index.html": "/GYMBRO/index.html",
-    "main.d6fbfddf.css.map": "/GYMBRO/static/css/main.d6fbfddf.css.map",
-    "main.8eac5637.js.map": "/GYMBRO/static/js/main.8eac5637.js.map",
-    "787.0d2f7ec1.chunk.js.map": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js.map"
+    "main.css": "/Felix-ikki.github.io/static/css/main.d6fbfddf.css",
+    "main.js": "/Felix-ikki.github.io/static/js/main.83b5fbfd.js",
+    "static/js/787.0d2f7ec1.chunk.js": "/Felix-ikki.github.io/static/js/787.0d2f7ec1.chunk.js",
+    "index.html": "/Felix-ikki.github.io/index.html",
+    "main.d6fbfddf.css.map": "/Felix-ikki.github.io/static/css/main.d6fbfddf.css.map",
+    "main.83b5fbfd.js.map": "/Felix-ikki.github.io/static/js/main.83b5fbfd.js.map",
+    "787.0d2f7ec1.chunk.js.map": "/Felix-ikki.github.io/static/js/787.0d2f7ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6fbfddf.css",
-    "static/js/main.8eac5637.js"
+    "static/js/main.83b5fbfd.js"
   ]
 }
