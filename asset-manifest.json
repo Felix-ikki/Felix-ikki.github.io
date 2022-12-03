@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GYMBRO/static/css/main.d6fbfddf.css",
-    "main.js": "/GYMBRO/static/js/main.8eac5637.js",
-    "static/js/787.0d2f7ec1.chunk.js": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js",
-    "index.html": "/GYMBRO/index.html",
-    "main.d6fbfddf.css.map": "/GYMBRO/static/css/main.d6fbfddf.css.map",
-    "main.8eac5637.js.map": "/GYMBRO/static/js/main.8eac5637.js.map",
-    "787.0d2f7ec1.chunk.js.map": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js.map"
+    "main.css": "/GYMBRO/index.html/static/css/main.d6fbfddf.css",
+    "main.js": "/GYMBRO/index.html/static/js/main.56dc42af.js",
+    "static/js/787.0d2f7ec1.chunk.js": "/GYMBRO/index.html/static/js/787.0d2f7ec1.chunk.js",
+    "index.html": "/GYMBRO/index.html/index.html",
+    "main.d6fbfddf.css.map": "/GYMBRO/index.html/static/css/main.d6fbfddf.css.map",
+    "main.56dc42af.js.map": "/GYMBRO/index.html/static/js/main.56dc42af.js.map",
+    "787.0d2f7ec1.chunk.js.map": "/GYMBRO/index.html/static/js/787.0d2f7ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6fbfddf.css",
-    "static/js/main.8eac5637.js"
+    "static/js/main.56dc42af.js"
   ]
 }
