@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gymbro/static/css/main.d6fbfddf.css",
-    "main.js": "/gymbro/static/js/main.e880d400.js",
-    "static/js/787.0d2f7ec1.chunk.js": "/gymbro/static/js/787.0d2f7ec1.chunk.js",
-    "index.html": "/gymbro/index.html",
-    "main.d6fbfddf.css.map": "/gymbro/static/css/main.d6fbfddf.css.map",
-    "main.e880d400.js.map": "/gymbro/static/js/main.e880d400.js.map",
-    "787.0d2f7ec1.chunk.js.map": "/gymbro/static/js/787.0d2f7ec1.chunk.js.map"
+    "main.css": "/GYMBRO/static/css/main.d6fbfddf.css",
+    "main.js": "/GYMBRO/static/js/main.8eac5637.js",
+    "static/js/787.0d2f7ec1.chunk.js": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js",
+    "index.html": "/GYMBRO/index.html",
+    "main.d6fbfddf.css.map": "/GYMBRO/static/css/main.d6fbfddf.css.map",
+    "main.8eac5637.js.map": "/GYMBRO/static/js/main.8eac5637.js.map",
+    "787.0d2f7ec1.chunk.js.map": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6fbfddf.css",
-    "static/js/main.e880d400.js"
+    "static/js/main.8eac5637.js"
   ]
 }
