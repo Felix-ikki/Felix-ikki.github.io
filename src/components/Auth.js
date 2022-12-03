@@ -1,4 +1,4 @@
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext } from "react";
 import { useLocalStorage } from "../customHooks/useLocalStorage";
 
 const AuthContext = createContext(null);

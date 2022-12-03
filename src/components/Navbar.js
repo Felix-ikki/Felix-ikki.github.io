@@ -18,9 +18,7 @@ export default function Navbar() {
 
   const theme = useTheme()
 
-  const { userName, setUserName } = useContext(UserContext);
-  const { password, setPassword } = useContext(UserContext);
-  const { loggedIn, setLoggedIn } = useContext(UserContext);
+  const { userName } = useContext(UserContext);
 
   const [navbarResponsive, setNavbarResponsive] = useState(false)
 
