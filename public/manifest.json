@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://felix-ikki.github.io/GYMBRO/",
+  "start_url": "https://felix-ikki.github.io/GYMBRO/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
