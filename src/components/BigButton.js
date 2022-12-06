@@ -15,9 +15,9 @@ const BigButton = styled(Button)(({ theme }) => ({
     },
     [theme.breakpoints.up('sm')]: {
         fontSize: '2em' , 
-    },
+    }, 
     [theme.breakpoints.up('md')]: {
-        fontSize: '3em' , 
+        fontSize: '3em' ,
     },
     fontWeight: "500",
     padding: "0 2em 0 2em",
@@ -26,6 +26,6 @@ const BigButton = styled(Button)(({ theme }) => ({
 
 export default function StyledButton({ children, page, onClickFunction }) {
   return (
-        <BigButton href={page} onClick={onClickFunction} >{children}</BigButton>
+        <BigButton onClick={onClickFunction} href={page}>{children}</BigButton>
   );
 }
