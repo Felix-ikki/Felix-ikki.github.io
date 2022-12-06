@@ -15,8 +15,8 @@ const SignUp = () => {
 
   const Navigate = useNavigate();
 
-  const { userName, setUserName } = useContext(UserContext);
-  const { password, setPassword } = useContext(UserContext);
+  const { setUserName } = useContext(UserContext);
+  const { setPassword } = useContext(UserContext);
   const { setAllRoutines } = useContext(UserContext);
 
   const [inputUserNameSignUp, setInputUserNameSignUp] = useState("");
@@ -200,7 +200,7 @@ const SignUp = () => {
                 <Typography sx={{ marginTop: "2em" }}>
                   {" "}
                   You have an account?
-                  <Link href="/LogIn">Log In</Link>
+                  <Link to="/LogIn">Log In</Link>
                 </Typography>
               </Box>
             </>
