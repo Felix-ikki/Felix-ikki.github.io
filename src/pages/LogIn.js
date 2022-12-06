@@ -12,7 +12,7 @@ import Collapse from "@mui/material/Collapse";
 import CloseIcon from "@mui/icons-material/Close";
 import { useAuth } from "../components/Auth";
 import { useTheme } from "@emotion/react";
-import Link from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const LogIn = () => {
 

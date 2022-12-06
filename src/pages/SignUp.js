@@ -8,7 +8,7 @@ import { Box, Container } from "@mui/system";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../components/Auth";
 import { useTheme } from "@emotion/react";
-import Link from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 const SignUp = () => {
