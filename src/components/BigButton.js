@@ -1,7 +1,5 @@
 import { styled } from '@mui/system';
 import { Button } from '@mui/material';
-import { Link, useNavigate } from "react-router-dom";
-
 
 
 const BigButton = styled(Button)(({ theme }) => ({
@@ -28,8 +26,6 @@ const BigButton = styled(Button)(({ theme }) => ({
 
 export default function StyledButton({ children, page, onClickFunction }) {
   return (
-    <Link to={page}>
-        <BigButton onClick={onClickFunction} >{children}</BigButton>
-    </Link>
+        <BigButton href={page} onClick={onClickFunction} >{children}</BigButton>
   );
 }
