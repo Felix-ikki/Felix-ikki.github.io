@@ -2,7 +2,6 @@ import React from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Container from "@mui/material/Container";
-import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 import { Button, Skeleton } from "@mui/material";
 import { useEffect, useState, useContext } from "react";
@@ -11,10 +10,8 @@ import { useNavigate } from "react-router-dom";
 import EditIcon from "@mui/icons-material/Edit";
 import DeleteIcon from "@mui/icons-material/Delete";
 import AddIcon from "@mui/icons-material/Add";
-import SelectExercises from "./Phase1Create";
 import { useTheme } from "@emotion/react";
 import BigButton from "../components/BigButton";
-import H1 from '..//components/H1'
 import H2 from '..//components/H2'
 import H2White from '..//components/H2White'
 
@@ -128,7 +125,7 @@ export const MyRoutines = () => {
                       You don't have a routine
                     </H2>
                     <BigButton
-                      page={"/Phase1Create"}
+                      page={"GYMBRO/#/Phase1Create"}
                     >
                       Create routine
                     </BigButton>
