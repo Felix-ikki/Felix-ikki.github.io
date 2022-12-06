@@ -22,7 +22,7 @@ export const MyRoutines = () => {
   const theme = useTheme()
 
   const { allRoutines, setAllRoutines } = useContext(UserContext);
-  const { editMode, setEditMode } = useContext(UserContext);
+  const { setEditMode } = useContext(UserContext);
 
   const [loading, setLoading] = useState(true);
 
