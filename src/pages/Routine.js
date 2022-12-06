@@ -6,7 +6,6 @@ import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import EditIcon from "@mui/icons-material/Edit";
 import Container from "@mui/material/Container";
-import Typography from "@mui/material/Typography";
 import { useContext, useState, createContext, useEffect } from "react";
 import { UserContext } from "../App";
 import { useLocation } from "react-router-dom";
