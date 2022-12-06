@@ -24,8 +24,8 @@ const BigButton = styled(Button)(({ theme }) => ({
     borderRadius: "20px",
 }));
 
-export default function StyledButton({ children, page, onClickFunction }) {
+export default function StyledButton({ children, onClickFunction }) {
   return (
-        <BigButton onClick={onClickFunction} href={page}>{children}</BigButton>
+        <BigButton onClick={onClickFunction} >{children}</BigButton>
   );
 }

@@ -125,7 +125,7 @@ export const MyRoutines = () => {
                       You don't have a routine
                     </H2>
                     <BigButton
-                      page={"/#/Phase1Create"}
+                      onClickFunction={() => navigate("/Phase1Create")}
                     >
                       Create routine
                     </BigButton>
