@@ -6,9 +6,13 @@ import Container from "@mui/material/Container";
 import BigButton from "../components/BigButton";
 import H1 from '../components/H1'
 import H2 from '../components/H2'
+import { Navigate, useNavigate } from "react-router-dom";
 
 
 function Home() {
+
+const navigate = useNavigate()
+
   return (
     <>
       <Navbar />
@@ -34,7 +38,7 @@ function Home() {
           <H2>
             The best way to build your training plan
           </H2>
-          <BigButton page={"/MyRoutines"}>USE NOW</BigButton>
+          <BigButton onClickFunction={()=> navigate('/MyRoutines')}>USE NOW</BigButton>
         </Box>
       </Container>
       <Footer />
