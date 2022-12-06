@@ -15,6 +15,7 @@ import LogIn from "./pages/LogIn";
 import SignUp from "./pages/SignUp";
 import { AuthProvider } from "./components/Auth";
 import RequireAuth from "./components/RequireAuth";
+import { Helmet } from "react-helmet";
 
 
 const theme = createTheme({
