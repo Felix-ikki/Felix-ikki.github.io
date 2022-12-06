@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useState, useContext } from "react";
 import { UserContext } from "../App";
-import { TextField, Button, Typography, Link, Skeleton } from "@mui/material";
+import { TextField, Button, Typography, Skeleton } from "@mui/material";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { Box, Container } from "@mui/system";
@@ -12,6 +12,7 @@ import Collapse from "@mui/material/Collapse";
 import CloseIcon from "@mui/icons-material/Close";
 import { useAuth } from "../components/Auth";
 import { useTheme } from "@emotion/react";
+import Link from "react-router-dom";
 
 const LogIn = () => {
 
