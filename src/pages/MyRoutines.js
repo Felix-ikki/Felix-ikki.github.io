@@ -125,7 +125,7 @@ export const MyRoutines = () => {
                       You don't have a routine
                     </H2>
                     <BigButton
-                      page={"GYMBRO/#/Phase1Create"}
+                      page={"/#/Phase1Create"}
                     >
                       Create routine
                     </BigButton>
