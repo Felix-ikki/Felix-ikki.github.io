@@ -200,7 +200,7 @@ const SignUp = () => {
                 <Typography sx={{ marginTop: "2em" }}>
                   {" "}
                   You have an account?
-                  <Link to="/LogIn">Log In</Link>
+                  <Link to={"/LogIn"}>Log In</Link>
                 </Typography>
               </Box>
             </>
