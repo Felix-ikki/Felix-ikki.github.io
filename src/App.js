@@ -1,6 +1,6 @@
 import React from "react";
 import { createContext, useEffect, useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Home from "./pages/Home";
 import CssBaseline from "@mui/material/CssBaseline";
