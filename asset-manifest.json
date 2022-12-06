@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GYMBRO/static/css/main.a0bfc0db.css",
-    "main.js": "/GYMBRO/static/js/main.3fce38cc.js",
+    "main.js": "/GYMBRO/static/js/main.c19c9e05.js",
     "static/js/787.0d2f7ec1.chunk.js": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js",
     "index.html": "/GYMBRO/index.html",
     "main.a0bfc0db.css.map": "/GYMBRO/static/css/main.a0bfc0db.css.map",
-    "main.3fce38cc.js.map": "/GYMBRO/static/js/main.3fce38cc.js.map",
+    "main.c19c9e05.js.map": "/GYMBRO/static/js/main.c19c9e05.js.map",
     "787.0d2f7ec1.chunk.js.map": "/GYMBRO/static/js/787.0d2f7ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0bfc0db.css",
-    "static/js/main.3fce38cc.js"
+    "static/js/main.c19c9e05.js"
   ]
 }
