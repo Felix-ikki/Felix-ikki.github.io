@@ -1,6 +1,6 @@
 import React from "react";
 import { createContext, useEffect, useState } from "react";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Home from "./pages/Home";
 import CssBaseline from "@mui/material/CssBaseline";
@@ -303,7 +303,6 @@ function App() {
       >
         <ThemeProvider theme={theme}>
         <CssBaseline />
-          <Router>
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/LogIn" element={<LogIn />} />
@@ -350,7 +349,6 @@ function App() {
               />
               <Route path="*" element={<Error404 />} />
             </Routes>
-          </Router>
         </ThemeProvider>
       </UserContext.Provider>
     </AuthProvider>
